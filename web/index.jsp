@@ -12,7 +12,7 @@
         <title>Web shop</title>
     </head>
     <body>
-        <h1>Магазин компьютеров</h1>
+        <h1>Магазин ноутбуков</h1>
         <p>${info}</p>
         <a href="addProduct">Добавить ноутбук</a><br>  
         <a href="addConsumer">Добавить покупателя</a><br>  
